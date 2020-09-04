@@ -3,7 +3,7 @@ package buildtagls_test
 import (
 	"testing"
 
-	"buildtagls"
+	"github.com/magnusbarata/buildtagls"
 	"golang.org/x/tools/go/analysis/analysistest"
 )
 
