@@ -1,8 +1,9 @@
 package main
 
 import (
-        "buildtagls"
+        "github.com/magnusbarata/buildtagls"
         "golang.org/x/tools/go/analysis/unitchecker"
 )
+
 
 func main() { unitchecker.Main(buildtagls.Analyzer) }
