@@ -1,4 +1,4 @@
-module buildtagls
+module github.com/magnusbarata/buildtagls
 
 go 1.14
 
